@@ -1,14 +1,14 @@
-## Movie_Recommender_model
+# Movie_Recommender_model
 
-📌 Overview
+## Overview
 This project is a Content-Based Movie Recommender System that suggests movies similar to your favorite titles using natural language processing and cosine similarity. Built using the CampusX methodology and enhanced with intuitive design and feature integration by Tarnveer Singh.
 
-What It Does
+## What It Does
 💡 Given a movie name, the app recommends top 5 similar movies based on:
 
 🎭 Cast & Crew ,🏷️ Genres ,📝 Plot Overview (NLP-based) and 🎬 Director
 
-⚙️ Features
+## Features
 🔎 Search any movie and get similar recommendations
 
 🧠 Uses TF-IDF / Count Vectorizer and cosine similarity
@@ -20,7 +20,7 @@ What It Does
 ⚡ Fast and easy to use — real-time filtering
 
 
-🧰 Tech Stack
+## Tech Stack
 Python, pandas, scikit-learn, nltk
 
 Streamlit for interactive UI
